@@ -1,6 +1,6 @@
+import pandas as pd
 from sqlalchemy import create_engine
 from pydoge_ds import get_query_params
-import pandas as pd
 
 
 class SQLEngine:
